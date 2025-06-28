@@ -1,6 +1,6 @@
 # ST-GMA-R
 
-EEG-based Seizure Prediction Using Multi-branch Networks with Spatiotemporal Feature Fusion
+Paper: EEG-based Seizure Prediction Using Multi-branch Networks with Spatiotemporal Feature Fusion
 
 ## Requirements:
 - python 3.10
